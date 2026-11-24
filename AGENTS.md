@@ -9,8 +9,7 @@ está organizado el proyecto y qué reglas sigue.
 - Proyecto académico de **Lenguaje de Programación** (5.º semestre, Ingeniería de Sistemas).
 - La persona que programa es **estudiante**: está aprendiendo. Tu rol es enseñar y revisar, no
   resolverle la materia.
-- Producto: <!-- el alumno describe aquí su producto en 2 líneas -->
-
+- Producto: Alquiler Vacacional es una plataforma web de alquiler vacacional con exploración visual inspirada en Airbnb.com, donde los viajeros descubren alojamientos mediante galerías fotográficas curadas y filtran estancias por destino o categoría. El sistema soporta visitantes, huéspedes (para guardar colecciones y reservar por fechas) y anfitriones (para publicar y gestionar propiedades), siguiendo una arquitectura modular en src/ bajo flujo de Pull Requests con CI en verde.
 ## Reglas obligatorias
 
 1. **No escribas el código de `src/shared/structures/` ni de `src/shared/algorithms/`** (épicas E3 y E4).

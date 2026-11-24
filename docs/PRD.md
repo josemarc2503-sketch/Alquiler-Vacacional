@@ -1,4 +1,4 @@
-# PRD · <Nombre de tu producto>
+# PRD · <Alquiler Vacacional>
 
 > Documento de requisitos del producto (Product Requirements Document).
 > Complétalo en el Sprint 0 (historia H0.3) y pide la aprobación del profesor en un Issue.
