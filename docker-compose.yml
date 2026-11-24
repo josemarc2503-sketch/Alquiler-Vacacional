@@ -10,7 +10,8 @@
 #
 # El tutorial completo está en el repositorio del curso: tutoriales/04-docker.md
 
-name: mi-producto
+name: Alquiler-Vacacional
+
 
 services:
   db:
